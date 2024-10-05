@@ -1,0 +1,274 @@
+,Name of Dam,Year Completed,River,Location,Type,Height (m),Length (m),Volume content (103m3),Gross Storage Capacity (103m3),Reservoir Area (103m2),Effective Storage Capacity (103m3),Purpose,Designed Spillway Cap m3per sec
+0,Dhamapur,1600,Malvan,Sindhudurg,Earthfill,11,217,2687,,,,Irrigation,9.85
+1,Vihar,1860,Vihar,Mumbai,Earthfill,25.6,817,353,41459.00,7270,41410.00,Water Supply,
+2,Ekrukh,1871,Adela,Solapur,Earthfill,21.45,2360,130,61170.00,,61170.00,Irrigation  Water Supply,1239
+3,Shirsufal,1879,local,"Pune, Baramati",Earthfill,20.11,741,,10100.00,1601,9520.00,Irrigation,112
+4,Tulshi,1879,Tulshi,Mumbai,EarthfillGravity,26,186,,10429.00,1350,10273.00,Water supply,640
+5,Khadakwasla,1880,Mutha,"Pune, Khadakwasala",EarthfillGravity,32.9,1539,1170,86000.00,14800,560000.00,Irrigation  Water supply,2755
+6,Ashti,1883,Ashti,"Solapur, Mohol",Earthfill,17.6,3871,,40000.00,,23000.00,Irrigation,1359
+7,Mhaswad,1887,Man,"Satara, Man",Earthfill,24,2473,,47880.00,16251,46210.00,Irrigation,4321.41
+8,Tansa,1892,Tansa,Mumbai,EarthfillGravity,41,2804,2670,208700.00,19.1,184600.00,Water supply,1188.6
+9,Shetfal,1901,Shetfal Nalla,"Pune, Indapur",Earthfill,20.11,3211,173,17360.00,3498,1693.00,Irrigation,
+10,Khairbandha,1903,Fattepur,Gondia,Earthfill,18.16,2205,243.52,16798.00,4147,15953.00,Irrigation,363.3
+11,Pathari,1905,local,"Solapur, Barshi",Earthfill,18.43,2070,,11880.00,,11620.00,Irrigation,512
+12,Chankapur,1911,Girna,Kalwan,Earthfill,41,3705,2123,79690.00,10320,76850.00,Irrigation,2237
+13,Ramtek,1913,Sur,Ramtek,Earthfill,22.2,229,1300,105130.00,21270,103000.00,Irrigation,515
+14,Chandpur,1915,Chandpur,Tumsar,Earthfill,19,1051,80.36,29025.00,9072,28879.00,Irrigation,339.25
+15,Walwan,1916,Indrayani,"Pune, Lonavala",Gravity,26.36,1356,182,72500.00,14250,72122.00,Hydroelectricity,171
+16,Darna,1916,Darna,"Nashik, Igatpuri",Gravity,28,1634,1886.1,226870.00,34750,209820.00,Irrigation,3336
+17,Bodalkasa,1917,Bhagdeogoti,Tiroda,Earthfill,19.2,510,107.62,17392.00,6450,16454.00,Irrigation,206.63
+18,Asolamendha,1918,local,Shindewahi,Earthfill,18.08,1376.52,350,67015.00,1880,56375.00,Irrigation,758
+19,Shirvata,1920,Indrayani,"Pune, Lonavala",Gravity,38.71,2212,460,185980.00,13.08,185110.00,Hydroelectricity,593
+20,Thokarwadi,1922,Indrayani,"Pune, Maval",Gravity,59.44,741,212,363700.00,24.3,321200.00,Hydroelectricity,546
+21,Chorkhamara,1923,Sasanda,Tiroda,Earthfill,21.05,1178,300,21051.00,5235,20800.00,Irrigation,264.94
+22,Ghorazari,1923,Gorazari,Nagbhir,Earthfill,23.55,731.7,90,45080.00,976,38000.00,Irrigation,320
+23,Bhandardara,1926,Paravara,Ahmednagar,Gravity,82.35,2717,335,312400.00,743.18,307310.00,Irrigation,1503
+24,Bhatghar,1927,Velvandi,"Pune, Bhor",Gravity,57.92,1625,650,670650.00,31900,666000.00,Irrigation  Hydroelectricity,1599
+25,Mulshi,1927,Mula,"Pune, Mulashi",Gravity,48.8,1533.38,,52230.00,3802,,Hydroelectricity,1892
+26,Mas,1932,Mas,Khamgaon,Earthfill,17.71,663,399,17500.00,4810,15040.00,Irrigation,1753
+27,Ghanewadi,1935,Kundlika,Jalna,Earthfill,15,836,,14440.00,,,Water Supply,
+28,Visapur,1936,Hanga,Srigonda,Earthfill,26,2692,130,33320.00,,33320.00,Irrigation,2627
+29,Radhanagari,1954,Bhogawati,Radhanagari,Gravity,42.68,1143,,236810.00,18218,220000.00,Irrigation  Hydroelectricity,1133
+30,Vaitarna (Modaksagar),1954,Vaitarna,Mumbai,Gravity,82,567.07,0.06,204980.00,8.39,174790.00,Water supply,5660
+31,Purmepeda,1955,Bori,Dhule,Earthfill,24.7,1500,525,13550.00,303,12960.00,Irrigation,2141
+32,Khasapur,1956,local,Paranda,Earthfill,23.78,1882,,19830.00,430,15830.00,Irrigation,2863
+33,Dheku,1960,Dheku,Vaijapur,Earthfill,20,2421,137,14000.00,447,12160.00,Irrigation,1945
+34,Sindphana,1963,Sindphana,Patoda,Earthfill,19.05,1937,12593,12600.00,5068,10810.00,Irrigation,1857
+35,Ekburji,1964,Chandrabhaga,Washim,Earthfill,23.7,830,566,14100.00,218,11960.00,Irrigation,1001
+36,Khelocala,1964,Khelocala,Sillod,Earthfill,21,759,588,13000.00,3678,11070.00,Irrigation,1518
+37,Upper Dudhana,1964,Dudhana,Jalna,Earthfill,18,2750,965,15000.00,445,13010.00,Irrigation,1912
+38,Koyna,1964,Koyna,Patan,Gravity,103,805,1555,2797400.00,11535,2640000.00,Hydroelectricity,3883
+39,Gangapur,1965,Godavari,Nashik,Earthfill,36.59,3902,4612,215880.00,22860,203880.00,Irrigation,2293
+40,Chandani,1965,Chandani,"Osmanabad, Paranda",Earthfill,17.18,1920,289,20700.00,813,15220.00,Irrigation,3030
+41,Bor,1965,Bor,Bori,Earthfill,36.28,1158,2474,138750.00,13506,127420.00,Irrigation,3058
+42,Ghod,1965,Ghod,Shirur,Earthfill,29.6,3300,1020,216300.00,30992,154800.00,Irrigation,7419
+43,Tisangi,1966,local,"Solapur, Pandharpur",Earthfill,20.82,2866,,24460.00,,22760.00,Irrigation,410
+44,Wunna,1966,Wunna,Nagpur,Earthfill,18.18,2525,390,23560.00,569,21640.00,Irrigation,1326.64
+45,Galhati,1966,Galhati,Ambad,Earthfill,13.1,2987,,13840.00,,,Irrigation,2152
+46,Mangi,1966,Kanola,"Solapur, Karmala",Earthfill,22.95,1475,,32720.00,,32720.00,Irrigation,2232
+47,Mehakari,1966,Mehakari,Ashti,Earthfill,27.63,1308,163.5,16130.00,38,13000.00,Irrigation,2233
+48,Wan,1966,Wan,"Beed, Ambejogai",Earthfill,19,2798,1358,25180.00,,2190.00,Irrigation,2340
+49,Bhudihal,1966,Belwan,"Solapur, Sangola",Earthfill,18.5,2975,,32050.00,,27950.00,Irrigation,2350
+50,Nawegaonbandh,1967,local,Navegaon,Earthfill,11.58,625,,45943.00,10344,29590.00,Irrigation,124.2
+51,Pandherbodi,1967,local,Umrer,Earthfill,15.24,1769,284,13860.00,425,13120.00,Irrigation,432
+52,Kurje (Dhapcheri),1967,local,Dahanu,Earthfill,22.96,2507.76,846.12,39050.00,5620,38085.00,Irrigation  Water Supply,598
+53,Nalganga,1967,Nalganga,Malkapur,Earthfill,29.8,2516,1500,71860.00,10980,70540.00,Irrigation,2158
+54,Sukhana,1968,Sukhana,Aurangabad,Earthfill,16.92,3536,68,21340.00,6782,18480.00,Irrigation,2101
+55,Kurnur,1968,Bori,"Osmanabad, Tuljapur",Earthfill,23.7,1206,45,35240.00,570,32670.00,Irrigation,2190
+56,Manar,1968,Manar,Kandhar,Earthfill,27,2592,1557,139000.00,2559,128700.00,Irrigation,8778
+57,Yeldari,1968,Purna,Yeldari,Earthfill,51.2,4232,,934310.00,101540,809660.00,Irrigation  Hydroelectricity,10477
+58,Anjani,1970,Anjani,Jalgaon,Earthfill,15.06,4216,213,61170.00,,61170.00,Irrigation  Water Supply,888
+59,Siddheshwar,1968,Purna,Siddeshwar,Earthfill,38.26,6353.2,907.2,250850.00,40580,80940.00,Irrigation,10789
+60,Kundrala,1969,local,Mukhed,Earthfill,18.5,999,370,14680.00,253,12990.00,Irrigation,811
+61,Gharni,1969,Gharni,Sirur,Earthfill,15.24,956,,25080.00,,22460.00,Irrigation,1882
+62,Dolwahal (Weir),1969,Kundlika,Roha,Earthfill,12.5,543,1943,10070.00,3230,1840.00,Irrigation  Water Supply,3030
+63,Girna,1969,Girna,Nandgaon,Earthfill,54.56,963.17,2042,608980.00,60040,525920.00,Irrigation  Hydroelectricity,8433
+64,Malangaon,1970,Kan,Sakri,Earthfill,23.78,1141,500,13023.00,248,11325.00,Irrigation,1075
+65,Karwand,1970,Arunanadi,Sirpur,Earthfill,39.3,2966,1191,33840.00,,31500.00,Irrigation,2461
+66,Itiadoh,1970,Garvi,Arjuni,EarthfillGravity,29.85,505,911,288830.00,46910,225120.00,Irrigation  Hydroelectricity,3230
+67,Sirpur,1970,Bagh,Deori,EarthfillGravity,24.69,2840,1195,203840.00,32970,192520.00,Irrigation,3633
+68,Pujaritola,1970,Bagh,Amgaon,EarthfillGravity,19.2,2661,664,65110.00,17650,48690.00,Irrigation,4246.88
+69,Terna,1970,Terna,Osmanabad,Earthfill,15,2651,186,22910.00,380,18630.00,Irrigation,
+70,Morna,1971,local,Patur,Earthfill,28.65,600,1109,44740.00,4930,41460.00,Irrigation,1631
+71,Gyanganga,1971,Gyanganga,Khamgaon,Earthfill,35.73,639,1380,36270.00,4151,33930.00,Irrigation,1742
+72,Upper Pus (Pus),1971,Pus,"Yavatmal, Pusad",Earthfill,42,744,1980,113920.00,8953,91260.00,Irrigation,4007
+73,Malkhed,1972,Kholad,Chandur Rly,Earthfill,17.05,1422,481,10900.00,6717,8960.00,Irrigation  Water Supply,1108
+74,Tanajisagar (Panshet),1972,Ambi,Velhe,EarthfillGravity,63.56,1039,4190,303000.00,15645,294000.00,Irrigation  Water supply,1162.4
+75,Pawana,1972,Pawana,"Pune, Pawananagar",EarthfillGravity,42.37,1329,1989,30500.00,2365,241000.00,Hydroelectricity  Water supply,1250
+76,Kalyangirija,1972,Kalyangirija,Jalna,Earthfill,22.07,1183,520,10160.00,568,8469.00,Irrigation,1310
+77,Bhojapur,1972,Mahalungi,"Nashik, Sinnar",Earthfill,32.41,733,449,13730.00,3352,10700.00,Irrigation,1488
+78,Saikheda,1972,Khuni,Pandharkawada,Earthfill,23.77,1740,909,38511.00,836,27184.00,Irrigation,2671
+79,Mula,1972,Mula,"Ahmadnagar, Rahuri",EarthfillGravity,48.17,2856,7594,736320.00,53600,608890.00,Irrigation,5947
+80,Upper Vaitarana,1973,Vaitarna,"Nashik, Igatpuri",EarthfillGravity,41,2531,1520,331630.00,37130,331000.00,Irrigation,1440
+81,Panzara,1973,Panzara,Sakri,Earthfill,33.5,1430,1597,43500.00,5590,35800.00,Irrigation,1768
+82,Yeralwadi,1973,Yerala,"Satara, Khatav",Earthfill,19.5,2115,663,33020.00,,18060.00,Irrigation,2083
+83,Manyad,1973,Manyad,Chalisgaon,Earthfill,45,1677,896.5,53980.00,8710,40257.00,Irrigation,3755
+84,Chulbandh,1974,Chulbandh,Gondia,Earthfill,22.08,465,130,21458.00,3750,16540.00,Irrigation,846.11
+85,Dhamna,1974,local,Bhokardan,Earthfill,13,2560,443,10730.00,433,8490.00,Irrigation,1414
+86,Dina,1974,Dina,Charmoshi,Earthfill,21.49,3137,957,61150.00,13765,55940.00,Irrigation,1671
+87,Kanoli,1974,Bori,Dhule,Earthfill,24.5,459,290,11900.00,217,8450.00,Irrigation,1840
+88,Nazare,1974,Karha,"Pune, Purandar",Earthfill,22.54,2021,1010,22316.00,3890,16650.00,Irrigation  Water Supply,2425
+89,Karanjwan,1974,Kadwa,Dindori,Earthfill,39.31,2483,1960,175580.00,18420,166220.00,Irrigation,2724
+90,Katepurna,1974,Katepurna,Mahan Barshi Takali,Earthfill,29.5,2000,693,97670.00,12430,86350.00,Irrigation  Water Supply,2783
+91,Kolkewadi,1975,Local Nallah,Chiplun,Gravity,64,497,576,36220.00,167,11220.00,Hydroelectricity,1081
+92,Nirguna,1975,Nirguna,Patur,Earthfill,25.7,1800,124,32290.00,4760,28840.00,Irrigation,1678
+93,Karpara,1975,Karpara,Jintur,Earthfill,16.66,1046,344,27320.00,778,24700.00,Irrigation,2033
+94,Palkhed,1975,Kadva,"Nashik, Dindori",Earthfill,34.75,4110,1228,230100.00,5760,212400.00,Irrigation,4592
+95,Kanholibara,1976,Krishna,Hingana,Earthfill,21.05,1365,115.3,22213.00,333,19820.00,Irrigation,1141
+96,Vir Baji Pasalkar(Varasgaon),1976,Mosi,"Pune, Velhe",EarthfillGravity,63.4,785,10550,374000.00,24200,275000.00,Irrigation  Hydroelectricity,1416
+97,Alwandi,1976,Vaitarna,"Nashik, Igatpuri",Earthfill,37.8,2548,930,353750.00,37130,331110.00,Irrigation,1420
+98,Adhala,1976,Adhala,Akola,Earthfill,40,623,1437,30000.00,2306,27600.00,Irrigation,1582
+99,Tiru,1976,Tiru,Osmanabad,Earthfill,21,1851,311,23320.00,690,15401.00,Irrigation,1985
+100,Kamthikhairy (Pench),1976,Pench,Nagpur,Earthfill,32,1876,4928,230000.00,23653,180000.00,Irrigation  Water Supply,12000
+101,Jayakwadi,1976,Godavari,"Aurangabad, Paithan",Earthfill,41.3,10415,13410,2909000.00,39800,2170000.00,Irrigation  Hydroelectricity,18153
+102,Jakapur,1977,local,Latur,Earthfill,14.8,2257,322,10176.00,,,Irrigation,1305
+103,Pargaon Ghatshil,1977,Kinha,Pargaon Ghatshil,Earthfill,22.46,911.65,297,12450.00,3740,,Irrigation,1467
+104,Dhom,1977,Krishna,Wai,EarthfillGravity,50,2478,6335,382270.00,2498,331100.00,Irrigation  Hydroelectricity,1778.29
+105,Suki,1977,Suki,Khiroda,Earthfill,42,716,1430,50170.00,366,39860.00,Irrigation,2336
+106,Hingani (Pangaon),1977,Bhogawati,"Solapur, Barshi",Earthfill,21.87,2193,74,45510.00,,31970.00,Irrigation,2435
+107,Yedgaon,1977,Kukadi,"Pune, Junnar",EarthfillGravity,29.74,4511,1004,93430.00,1700,79270.00,Irrigation,3844
+108,Bori,1977,Bori,Parola,Earthfill,20,3365,5534,40960.00,8460,25020.00,Irrigation,4206
+109,Adan,1977,Aran,Karanja,EarthfillRockfill,30.13,755,1428,78320.00,10520,67250.00,Irrigation,4623
+110,Januna,1978,local,Barshi Takali,Earthfill,11.95,390,150,11310.00,404,1180.00,Irrigation,260
+111,Makardhokada,1978,Amb,Umrer,Earthfill,18.81,1645,652.87,21356.00,322,19931.00,Irrigation,450
+112,Matoba,1978,Bhima,"Pune, Daund",Earthfill,17.5,1662,45.6,45200.00,1900,37100.00,Irrigation,476
+113,Tulshi,1978,Tulshi,Radhanagari,EarthfillGravity,48.68,1512,25,98290.00,533,89910.00,Irrigation  Hydroelectricity,640
+114,Khandeshar,1978,Vali,Osmanabad,Earthfill,17.14,1257,305,10840.00,3000,8820.00,Irrigation,800
+115,Karadkhed,1978,local,Degloor,Earthfill,19,1454,498,12000.00,289,10980.00,Irrigation,1148
+116,Ambadi,1978,Sivana,"Aurangabad, Kannad",Earthfill,20,2210,707,12000.00,,9420.00,Irrigation,1412
+117,Barvi,1978,Kalyanthane,Thane,Earthfill,48.78,746,,178580.00,0.04,176940.00,Water Supply,1585
+118,Waghadi,1978,Waghadi,Ghatanji,EarthfillGravity,26,960,773,41110.00,6580,35360.00,Irrigation,1815
+119,Aner,1978,Aner,Shivpur,Earthfill,47,2275,3162,103270.00,,58914.00,Irrigation,4318
+120,Waghad,1979,Kalwan,"Nashik, Dindori",Earthfill,45.6,952,1783,76480.00,526,70000.00,Irrigation,1610
+121,Koradi,1979,Koradi,"Buldhana, Mehkar",Earthfill,19.31,900,1193,22500.00,6465,15120.00,Irrigation,2446
+122,Kawadas (Pickup),1979,local,"Thane, Javhar",Earthfill,28.08,630,180,13700.00,5480,9970.00,Irrigation,3700
+123,Mandohol,1979,Mandohol,Parner,Earthfill,27.07,739,426,11300.00,199.51,8780.00,Irrigation,11420
+124,Pethwadaj,1980,local,Kandhar,Earthfill,19.5,1260,495,11600.00,2970,9040.00,Irrigation,1185
+125,Haranbari,1980,Mosam,Satana,Earthfill,34,1419,2375,34780.00,5540,33020.00,Irrigation,1312
+126,Kelzar,1981,Aram,Satana,Earthfill,32.5,1236,1622,17100.00,1660,16210.00,Irrigation,832.4
+127,Uma,1981,Uma,Murtijapur,Earthfill,20.42,2140,434,14010.00,2600,11690.00,Irrigation,1340
+128,Sonal,1981,Aran,M Pir,Earthfill,19.6,1114,698,20270.00,,16920.00,Irrigation,1368
+129,Masoli,1981,Masoli,Gangakhed,Earthfill,24.84,1086,626,34080.00,6970,27390.00,Irrigation,2028
+130,Goki,1981,Goki,Darwha,EarthfillGravity,23.06,1572,658,50220.00,11360,42710.00,Irrigation  Water supply,2066
+131,Yelavi,1982,local,"Sangli, Jath",Earthfill,15.25,764,111,22260.00,,2180.00,Irrigation,557
+132,Rangawali,1982,Rangawali,Dhule,Earthfill,25.63,1878,1289,15020.00,329,12890.00,Irrigation,1168
+133,Ozarkhed,1982,Unanda,"Nashik, Dindori",Earthfill,35.3,3266,2052,67950.00,6880,60320.00,Irrigation,1610
+134,Tawarja,1982,Tawarja,Latur,Earthfill,14.3,2222,361,20520.00,741,16950.00,Irrigation,1903
+135,Tillari (Proj.),1982,Tillari,Sawantwadi,EarthfillGravity,73,943,9274,462170.00,16250,447290.00,Irrigation  Water supply,2465
+136,Manjara,1982,Manjara,"Beed, Kalamb",Earthfill,25,4203,2213,250700.00,,173320.00,Irrigation,6000
+137,Isapur,1982,Penganga,Nanded,Earthfill,57,4120.1,11216,1254000.00,,951000.00,Irrigation,10480
+138,Hatnur,1982,Tapi,"Jalgaon, Bhusawal",Earthfill,25.5,2580,3850,388000.00,48160,255000.00,Irrigation,26415
+139,Chandai,1983,Chandai Nalla,Varora,Earthfill,11.91,1830,181,13200.00,523,10690.00,Irrigation,842.85
+140,Alandi,1983,Alandi,Nashik,Earthfill,29.3,1690,2782,29600.00,55900,27820.00,Irrigation,1002
+141,Borna,1983,Borna,"Beed, Ambejogai",Earthfill,22.3,866,460,10908.00,2191,9060.00,Irrigation,1249
+142,Wadaj,1983,Meena,"Pune, Junnar",EarthfillGravity,30.7,1875,1009,36000.00,467,33200.00,Irrigation,1426
+143,Chargaon,1983,Chargaon,Varora,Earthfill,14.4,3065,428,21700.00,12921.9,19866.00,Irrigation,1450.5
+144,Pothara,1983,Pothara,Hinganghat,Earthfill,14.21,2220,318,38400.00,13900,34720.00,Irrigation,1732
+145,Burai,1983,Burai,Sakri,Earthfill,30.6,1013,168,21330.00,31440,14210.00,Irrigation,2149
+146,Erai,1983,Erai,Chandrapur,EarthfillGravity,30,1620,985,226500.00,58000,193000.00,Water supply,2610
+147,Bhatsa,1983,Bhatsa,"Thane, Shahapur",EarthfillGravity,88.5,959,18250,976150.00,2725,942115.00,Irrigation  Water supply,5342
+148,Lower Pus,1983,Pus,Mahagaon,Earthfill,28,3346,6167,81160.00,15890,59630.00,Irrigation,5437
+149,Natuwadi,1984,Tr.of Charti,Khed,Earthfill,45.25,900,22.3,28080.00,2000,27230.00,Irrigation,690.73
+150,Manikdoh,1984,Kukadi,"Pune, Junnar",Gravity,51.8,930,596,308060.00,18434,283070.00,Irrigation  Hydroelectricity,1439
+151,Kolar,1984,Kolar,Saoner,Earthfill,30.11,2910,1084,35380.00,6430,31320.00,Irrigation,1598.2
+152,Kordi,1985,Kordi,Navapur,Earthfill,27.75,1952,923,11690.00,1677,10300.00,Irrigation,735
+153,Amalocalalla,1985,Amalocalalla,Rajura,Earthfill,37.75,1607,133.4,22700.00,3703,21200.00,Irrigation,1067
+154,Morna (Shirala),1985,Morna,Shirala,Earthfill,31.2,1115,793,21160.00,3203,15150.00,Irrigation,1075
+155,Tillari (Main),1986,Tillari,Chandgad,Gravity,38.05,485,250,113266.00,9290,92020.00,Hydroelectricity,1028
+156,Kalyan,1986,Kalyan,Jalna,Earthfill,16.49,1554,492,15360.00,533,10360.00,Irrigation,1315
+157,Girija,1986,Girija,"Aurangabad, Khultabad",Earthfill,19.1,3060,70,24500.00,775,21230.00,Irrigation,1649
+158,Ujani,1980,Bhima,"Solapur, Tembhurni",Earthfill,56.4,2534,,3140000.00,337000.00,1440000.00,Irrigation,15717
+159,Kundlika,1986,Kundlika,"Beed, Majalgaon",Earthfill,28.45,1403,,46350.00,6850,,Irrigation,2751
+160,Kanher,1986,Wenna,Satara,EarthfillGravity,50.34,1954,6308,286000.00,18.63,271680.00,Irrigation  Hydroelectricity,3203
+161,Sina,1986,Sina,"Ahmadnagar, Karjat",Earthfill,28.5,1580,681.5,67950.00,12834,,Irrigation,4450
+162,Dham,1986,Dham,Arvi,Earthfill,33.35,1728,2737,72460.00,7780,62510.00,Irrigation,5416.6
+163,Wandri,1987,Wandri,"Thane, Palghar",Earthfill,29.6,1336,1206,36510.00,4438,34710.00,Irrigation,567
+164,Raigavan,1987,local,"Beed, Kalam",Earthfill,19.74,2090,,12703.00,4920,11259.00,Irrigation,1411
+165,Dhamni (Surya),1987,Surya,Dhamni,Earthfill,59,1563,1270,285310.00,16130,273350.00,Irrigation  Hydroelectricity,2696
+166,Majalgaon,1987,Sindphana,"Beed, Majalgaon",Earthfill,31.19,6488,5759,453640.00,78130,311300.00,Irrigation  Hydroelectricity,14500
+167,Khekaranalla,1988,KhekaraNalla,Kalmeshwar,Earthfill,24.5,330,306,26325.00,5566,23810.00,Irrigation,1343
+168,Kalisarar,1988,Kalisarar,Salekasa,EarthfillGravity,25.52,830,697,30460.00,6500,27750.00,Irrigation,1402
+169,Khairi,1989,Kar,"Ahmadnagar, Jamkhed",Earthfill,18.91,1210,54,15110.00,492,13743.00,Irrigation,1962
+170,Totladoh,1989,Pench,Ramtek,Gravity,74.5,680,972,1241109.00,77710,1091000.00,Hydroelectricity,12072
+171,Adol,1990,Adola,Borala,Earthfill,18.47,1725,479,15270.00,3141,,Irrigation,1274
+172,Shahanoor,1990,Shahanoor,AnjangaonSurji,Earthfill,57.81,828,3446,47850.00,2970,46040.00,Irrigation  Water Supply,2406
+173,Lower Wunna (Nand),1990,Nand,Nagpur,EarthfillGravity,16.25,2513,1833,62182.00,21642,53182.00,Irrigation,5238
+174,Nagyasakya,1992,Panzan,Nandgaon,Earthfill,23.09,1440,292,15620.00,4050,11240.00,Irrigation,51.55
+175,Sakol,1992,local,"Latur, Udgir",Earthfill,17.65,1425,371,12689.00,4256,10950.00,Irrigation,1178
+176,Borgaon,1993,local,Yavatmal,Earthfill,20,830,1404,14040.00,288,12224.00,Irrigation,686
+177,Pakadiguddam,1993,Deogad,Chandrapur,Earthfill,19,1814,1067,13307.00,2579,11800.00,Irrigation,803
+178,Devarjan,1993,Devari,"Latur, Udgir",Earthfill,15.58,1715,,13410.00,4010,10670.00,Irrigation,1136
+179,Upper Wardha,1993,Wardha,Amrawati,EarthfillGravity,46.2,5920,6500,786480.00,93122,614800.00,Irrigation  Hydroelectricity  Water supply,19457
+180,Bokani,1994,local,"Latur, Udgir",Earthfill,17.03,1440,,13460.00,3170,8590.00,Irrigation,1258.8
+181,Benitura,1994,local,"Latur, Omerga",Earthfill,13.48,1780,,12810.00,,,Irrigation,1614
+182,Sakat,1994,Dudhana,"Osmanabad, Paranda",Earthfill,19.8,2775,,14430.00,4340,13440.00,Irrigation,1686
+183,Tembhapuri,1994,Nagzari,Aurangabad,Earthfill,16.42,5300,809,21260.00,8495,19000.00,Irrigation,2038
+184,Arunawati,1994,Arunawati,"Yavatmal, Digras",EarthfillGravity,29.5,5170,4412,198395.00,39290,169675.00,Irrigation,8525
+185,Waldevi,1995,Waldevi,Nashik,Earthfill,36.4,1890,1304,33720.00,3437,32050.00,Irrigation,809
+186,Tisgaon,1995,Parashri,"Nashik, Dindori",Earthfill,24.9,1674,1080,15140.00,292,12440.00,Irrigation,1744
+187,Mukane,1995,Aaundha,Nawapur,Earthfill,26.93,1530,2271,214160.00,3018,203970.00,Irrigation,1938
+188,Masalga,1996,local,"Latur, Nilanga",Earthfill,10.26,2023,,14670.00,3696,,Irrigation,996
+189,Vishwamitri,1996,Vishwamitri,Patur,Earthfill,21.06,1275,565,10116.00,1766,,Irrigation,1332
+190,Jam,1996,Jam,Katol,Earthfill,24,3460,107,28050.00,7565,23550.00,Irrigation,1564
+191,Kadwa,1997,Kadwa,"Nashik, Igatpuri",Earthfill,31.84,1660,1245,59590.00,6705,52910.00,Irrigation,2821
+192,Bahula,1997,Bahula,Tumsar,Earthfill,17,5280,847,20030.00,581,16330.00,Irrigation,3802
+193,Lower Wunna (Wadgaon),1997,Wadgaon,Nagpur,EarthfillGravity,23.65,5330,2998,152600.00,36138,136000.00,Irrigation,10877
+194,Kashypi,1998,Kashyapi,Rajapur,Earthfill,41.75,1291,2761,52690.00,2867,52430.00,Irrigation,799
+195,Purnaneopur,1998,Purna,"Aurangabad, Kannad",Earthfill,16.6,2725,506,11380.00,3848,9340.00,Irrigation,1184
+196,Punegaon,1998,Unanda,"Sangli, Tasgaon",Earthfill,24.14,1803,991,20399.00,3646,17750.00,Irrigation,1332
+197,Sonwad,1998,Sonwad,Sindkheda,Earthfill,18.58,4699,614,12690.00,3434,9530.00,Irrigation,1349
+198,Narangi,1998,local,Vaijapur,Earthfill,16.5,,,13290.00,,,Irrigation,2296
+199,Bor Dahegaon,1998,local,Vaijapur,Earthfill,16.7,,,13400.00,,,Irrigation,2510
+200,Mun,1998,Mun,"Buldhana, Khamgaon",Earthfill,30.2,1466,1362,42480.00,4527,36830.00,Irrigation,3623
+201,Awashi,1999,local,"Ratnagiri, Dapoli",Earthfill,36.51,350,894,11151.00,831,10440.00,Irrigation,221.18
+202,Vadiwale,1999,Kundali,"Pune, Lonavala",Earthfill,29,485.64,8.73,40870.00,3558,30390.00,Irrigation,746.82
+203,Anjanapalshi,1999,Anjana,"Aurangabad, Kannad",Earthfill,19.4,1952,937,15550.00,3887,13740.00,Irrigation,1167
+204,Pimpalgaon Joge,1999,AR Pushpawati,"Pune, Junnar",Earthfill,28.6,1560,2010,235520.00,263000,110240.00,Irrigation,1943.7
+205,Savatri,1999,Savatri,"Ratnagiri, Poladpur",Gravity,33.62,320,196,29450.00,2700,26360.00,Water supply,3919.79
+206,Temghar,2000,Mutha,"Pune, Lavarde",EarthfillGravity,42.5,1075,1188,107900.00,55512,101010.00,Irrigation,626.5
+207,Dongargaon,2000,local,Rajura,Earthfill,23,572,285,14180.00,3757,12440.00,Irrigation,840
+208,Hetwane,2000,Bhogeshwari,"Raigadh, Pen",Earthfill,48.2,675,144980,147490.00,6740,137625.00,Irrigation  Water Supply,1084
+209,Gunjwani,2000,Kanand,"Pune, Velhe",EarthfillGravity,52.82,1730,6871,104690.00,6410,104480.00,Irrigation,1175
+210,Chilewadi,2000,Mandvi,"Pune, Junnar",Earthfill,62.56,440,36.23,27170.00,67410,24610.00,Irrigation,1680
+211,Nira Devghar,2000,Nira,"Pune, Bhor",Earthfill,58.53,2430,99.38,337390.00,14307,332130.00,Irrigation,1852
+212,Kar,2000,Kar,Wardha,Earthfill,25.13,1067,265.06,25960.00,4480,21060.00,Irrigation,2314
+213,Dimbhe,2000,Ghod,"Pune, Ambegaon",Gravity,67.21,852,1151.23,38220.00,17547,35391.00,Irrigation,2872
+214,Bhama Asakhed,2000,Bhama,"Pune, Chakan",Earthfill,51,1425,6183,230473.00,21630,217100.00,Irrigation,3431.72
+215,Wan,2000,Wan,"Telhara, Akola",EarthfillGravity,67.65,500,599,83465.00,4391,81955.00,Irrigation  Hydroelectricity  Water supply,3874
+216,Berdewadi,2001,local,Lanja,Earthfill,61.19,656,1796.2,15841.00,871,15356.00,Irrigation,296
+217,Chitri,2001,Chitri,"Kolhapur, Ajara",Earthfill,55.1,1710,2606,53414.00,2931,52359.00,Irrigation,571
+218,Uttarmand,2001,Uttarmand,"Satara, Patan",Earthfill,46.45,1389,,24925.00,2393,,Irrigation,824
+219,Jamkhedi,2001,Jamkhedi,"Dhule, Sakri",Earthfill,29.62,1750,710,14450.00,2081,12290.00,Irrigation,1113
+220,Bhivargi,2001,Patan,"Sangli, Jath",Earthfill,15.85,1606,,11200.00,,8630.00,Irrigation,
+221,Madan,2002,Waghadinalla,Arvi,Earthfill,26.55,1291,976.14,11460.00,,10460.00,Irrigation,662.5
+222,Babhulgaon,2003,local,"Solapur, Barshi",Earthfill,16.93,16.5,56100,56100.00,2270,,Irrigation,1046
+223,Chargad,2003,Chargad,Amravati,Earthfill,24.5,3740,1095,12005.00,2842,8266.00,Irrigation  Water Supply,1107.5
+224,Andra Valley,2003,Andra,"Pune, Maval",Earthfill,40.45,330,207.86,83310.00,7421,82750.00,Irrigation,1110
+225,Pentakali,2003,Penganga,"Buldhana, Mehkar",Earthfill,27.5,990,694.35,67355.00,12870,59976.00,Irrigation,6476
+226,Kudnur,2005,local,Chandgad,Earthfill,20.99,316,208.68,11925.00,214,1062.00,Irrigation,58.24
+227,Deogad,2005,Karli Nalla,Phonda,Earthfill,54.68,1784,6200,100428.00,5731,98020.00,Irrigation  Hydroelectricity,2078
+228,Shivana Takli,2005,Shivna,Kannad,Earthfill,17.7,4524,622,39360.00,887,38190.00,Irrigation,4415
+229,Popatkhed,2005,Dather,Akot,Earthfill,42.6,,,12192.00,,10709.00,Irrigation,
+230,Morbe,2006,Dhavari,Khalapur,Gravity,59.1,3420,18075,19089.00,9780,160.01,Water supply,690.4
+231,Lalocalalla,2006,local,Samudrapur,Earthfill,13.9,3385,407.67,29515.00,9039,27613.00,Irrigation,925
+232,Morana (Gureghar),2006,Morana,Patan,Earthfill,47.02,420,,39550.00,31.27,36990.00,Irrigation,1360.11
+233,Tarandale,2007,local,Kankawali,Earthfill,48,400,,10800.00,,9810.00,,147.7
+234,Kalmodi,2007,Arala,Khed,Gravity,40.6,104,139.28,42670.00,2710,42670.00,Irrigation,963.21
+235,Sina Kolegaon,2007,Sina,"Osmanabad, Paranda",Earthfill,36.6,,234,150490.00,1529,89340.00,Irrigation,7689
+236,Katangi,,Katanginalla,Goregaon,Earthfill,13.65,2360,464.12,11120.00,31.02,9400.00,Irrigation,845.5
+237,Bham,,Tapi,Dharni,EarthfillGravity,67.5,10982,,"378,000.00",1551.6,"378,000.00",Irrigation,445
+238,Sarang Kheda,,Waki,"Nashik, Sinnar",Earthfill,34.5,1081,76.2,75800.00,7203,70550.00,Irrigation,563
+239,Chenna,,Chenna,Gadchiroli,Earthfill,33,740,413,14800.00,1930,14790.00,Irrigation,602
+240,Madan,,local,Madan,Earthfill,26.5,1413,773,11460.00,,10560.00,Irrigation,662
+241,Godavari,,Darna,"Nashik, Igatpuri",Earthfill,34.75,1028,3007,46730.00,2565,40790.00,Irrigation,662
+242,Karwappa,,Karwappa,Gadchiroli,Earthfill,35,1416,991,32560.00,4454,32560.00,Irrigation,841
+243,Manikpuri,,Waki,"Nandurbar, Shahada",Earthfill,42.84,888,1453,14760.00,650,13450.00,Irrigation,912
+244,Lower Tapi,,Kadwa,Nashik,Earthfill,21.8,860,303.72,16460.00,3150,11470.00,Irrigation,983
+245,Bhavali,,Bham,"Thane, Shahapur",Earthfill,33.97,1550,329,75050.00,4980,69760.00,Irrigation,990
+246,Jamkhed,,local,Mukhed,Earthfill,16.9,1605,44,10230.00,,8150.00,Irrigation,1019
+247,Nagan,,Nagan,Navapur,Earthfill,29.24,2940,1800,25150.00,3334,22760.00,Irrigation,1103
+248,Talamba,,Karli,Kudal,Earthfill,57.41,2955,7343,308750.00,21350,285630.00,Irrigation  Hydroelectricity,1354.47
+249,Wakod,,Nagzari,Aurangabad,Earthfill,14.28,2975,577,12050.00,4480,11400.00,Irrigation,1380
+250,Mahamadwadi,,Gad river,Konakwadi,Earthfill,59.33,1590,12000,93374.00,4243,91399.00,Irrigation  Hydroelectricity,1678
+251,Lower Panzara (Akkalp),,Punad,Kalwan,Earthfill,33.28,706,1114,39750.00,3123,36990.00,Irrigation,1791
+252,Waki,,Godavari,Pachora,Earthfill,51.87,869,4582,53730.00,2054,53340.00,Irrigation,1808
+253,Dara,,Shiwan,Nandurbar,Earthfill,31.3,4828,2410,24180.00,2070,21700.00,Irrigation  Water Supply,1864
+254,Upper Kadwa,,Manyad,Nandgaon,Earthfill,32.92,1470,471.66,14010.00,238,9460.00,Irrigation,2032
+255,Gomai,,Gomai,"Nandurbar, Shahada",Earthfill,23.9,5596,1391,28104.00,5920,20352.00,Irrigation,2049
+256,Utawali,,Utawali,"Buldhana, Mehkar",Earthfill,26.05,2112,1910,20808.00,3642,,Irrigation,2336
+257,Chandrabhaga,,Chandrabhaga,Amravati,Earthfill,44.7,1573,2952,41427.00,3262,41248.00,Irrigation  Hydroelectricity  Water supply,2476
+258,Tultuli,,Khobragadi,Gadchiroli,Earthfill,21.59,5280,2745,225051.00,50920,216948.00,Irrigation,3460
+259,Purna,,Purna,Amravati,Earthfill,38,3120,1277,41759.00,5880,35370.00,Irrigation  Hydroelectricity  Water supply,3906
+260,Anjneri,,Panzara,Sakri,Earthfill,32.3,3137,4326,107790.00,14815,87870.00,Irrigation,4332
+261,Nawatha,,Burai,Dhule,Earthfill,29,2610,1427,36930.00,7360,33910.00,Irrigation,4342
+262,Human,,Human,Chandrapur,EarthfillGravity,28,3222,2448,313731.00,80930,313731.00,Irrigation,9242
+263,Prakasha Barrage,,Tapi,Nandurbar,Earthfill,39.5,1070,179,325000.00,3850,248210.00,Irrigation,16071
+264,Lower Wardha,,Wardha,Wardha,EarthfillGravity,27.8,9464,2639,253340.00,54654,216870.00,Irrigation,20788
+265,Dhaner,,Tapi,Burhanpur,Gravity,27.7,425,,141000.00,170,141000.00,Irrigation,21083
+266,Nanduri,,Tapi,Ama Local Nallaher,EarthfillGravity,20,2186,1381.25,42056.00,575.36,35780.00,Irrigation  Water supply,49299.5
+267,Sulwade Barrage,,Tapi,"Nandurbar, Shahada",Earthfill,27.73,688,226,63640.00,11870,62110.00,Irrigation,50517
+268,Wadishewadi,,Tapi,"Nandurbar, Shahada",Earthfill,36.5,614.5,324,92190.00,18230,91810.00,Irrigation,50529
+269,Dehali,,Tapi,Sind Kheda,Earthfill,28.26,5349,1762,65060.00,1229,65060.00,Irrigation  Water Supply,64227
+270,Gose Khurd Dam,2008,Wainganga,Bhandara,Earthfill,22.50,11356,3828,769483.00,22258,376592.00,Irrigation,67300
+271,Punad,,Delhi,"Nandurbar, Akkalkuva",Earthfill,29.62,1820,123,19080.00,2202,17290.00,Irrigation,
+272,Kalammawadi,,Dudhaganga,"Kalammawadi, Radhanagari",Earthfill,73.08,1280,679.0,679000.0,,679000.0,"Irrigation, Hydroelectric",
